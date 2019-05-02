@@ -2,7 +2,7 @@ body {
   background-color: #EFEFEF;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Metal Mania', cursive;
   color: #813772;
 }
@@ -13,4 +13,21 @@ h1, h2 {
   margin: 10px;
   border: 1px black;
   padding: 5px;
+}
+
+.top-nav li {
+  float: right;
+  list-style: none;
+}
+
+container {
+  size: 100%;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
