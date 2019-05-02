@@ -1,6 +1,16 @@
-.my-class {
-  border: 2px solid green;
-  padding: 4px;
-  margin: 12px;
-  background-color: pink;
+body {
+  background-color: #EFEFEF;
+}
+
+h1, h2 {
+  font-family: 'Metal Mania', cursive;
+  color: #813772;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  margin: 10px;
+  border: 1px black;
+  padding: 5px;
 }
